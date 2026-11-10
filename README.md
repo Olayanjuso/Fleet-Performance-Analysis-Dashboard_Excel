@@ -6,8 +6,10 @@
 > It does not represent any real company, driver, or operational data.
 
 
+<video src="Fleet Performance Analysis DB.mp4" width="100%" controls></video>
 
 ## Full Dashboard - PDF Export Output
+
 
 ![Full Dashboard - PDF Export](Images/00_Full_Dashboard_PDF_Export.png)
 
